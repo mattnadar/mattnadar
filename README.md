@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
-- 📘 I am proficient in Python, Java, C, HTML, CSS, Javascript, TypeScript, and BASH. 
-- 🌱 I’m currently interested in making websites. I am also currently working with TypeScript, Node.js and Discord.js to work on Sage, a discord bot used by all the students and faculty of the UDCIS department.
+- 📘 I am proficient in most common programming languages, like Python, C++, Javascript, Typescript, etc.
+- 🌱 I’m currently interested in Software Development and Machine Learning + Data Science
 - 📫 How to reach me: matthewn@udel.edu
 
 <!---
